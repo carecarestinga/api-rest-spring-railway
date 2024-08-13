@@ -65,7 +65,7 @@ classDiagram
 | PUT         | /api/v1 | /user/1           | Atualiza o usuário com o id 1           |
 | DELETE      | /api/v1 | /user/1           | Remove o usuário com o id 1             |
 
-### [https://sdw-2023-prd.up.railway.app/swagger-ui.html](https://sdw-2023-prd.up.railway.app/swagger-ui.html)
+### [https://api-rest-spring-railway.up.railway.app/swagger-ui.html](https://api-rest-spring-railway.up.railway.app/swagger-ui.html)
 
 # Getting Started
 
